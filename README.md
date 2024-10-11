@@ -1,8 +1,10 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<h1 align="center"><b>Hola, Soy Yoel López </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Yoel+L%C3%B3pez+Tellez,;Estudiante,;Desarrollador+de+Aplicaciones+Multiplataforma,;Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo,;Siempre+aprendiendo+nuevas+habilidades.">
+</a>
 </p>
 
 
@@ -11,17 +13,15 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+- Estudiando Desarrollo de Aplicaciones Multiplataforma
+- Realizando prácticas en InVideogames
+- Actualmente estoy abierto a una nueva oportunidad de trabajo, este es [mi currículum.](https://www.canva.com/design/DAF60IHvc2Y/atSWDOwPrwxXdRtjkTLKjw/view?utm_content=DAF60IHvc2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <br><br>
 
@@ -64,10 +64,7 @@
 
 <br>
 
-- **Extras**:
-
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+ 
 
 
 </p>
@@ -109,7 +106,7 @@
 
 <li>
 <a href="https://es.linkedin.com/in/yoellopeztellez" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  0xabdulkhalid-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin:  Yoel Lopez Tellez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -127,7 +124,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+## <b>El conocimiento no tiene límites</b>
 
 </div>
 <br>
@@ -139,6 +136,5 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
 
-Last Edited on: 09/11/2022
+Last Edited on: 11/10/2024
