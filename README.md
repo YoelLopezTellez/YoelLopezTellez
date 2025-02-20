@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFA500&width=500&lines=Desarrollador+de+Aplicaciones+Multiplataforma;Apasionado+por+la+tecnología+y+el+desarrollo;Siempre+aprendiendo+nuevas+habilidades." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=650&height=100&lines=Yoel+L%C3%B3pez+Tellez;Estudiante+de+DAM;Desarrollador+de+Aplicaciones+Multiplataforma;Apasionado+por+la+tecnolog%C3%ADa+y+el+desarrollo;Siempre+aprendiendo+nuevas+habilidades."/>
   </a>
 </p>
 
@@ -21,10 +21,9 @@
 
 **Lenguajes:**
 
-![C](https://img.shields.io/badge/C-27338B?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java%20-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+ ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Desarrollo Frontend:**
 
@@ -39,9 +38,11 @@
 
 **Herramientas y Plataformas:**
 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+ ![GitLab](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+ ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+ ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+ ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+ ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
