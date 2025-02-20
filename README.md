@@ -11,7 +11,7 @@
 ## 🚀 Sobre mí
 
 - 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM).
-- 🎮 Realizando prácticas en **InVideogames**.
+- 🎮 Prácticas realizadas en **InVideogames**.
 - 💼 Actualmente abierto a nuevas oportunidades laborales, este es [mi currículum](https://www.canva.com/design/DAF60IHvc2Y/atSWDOwPrwxXdRtjkTLKjw/view?utm_content=DAF60IHvc2Y&utm_campaign=designshare&utm_medium=link&utm_source=editor).
 - 🌱 Aprendiendo nuevas tecnologías cada día.
 
@@ -43,6 +43,20 @@
  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**Entornos de Desarrollo y Herramientas Adicionales:**
+
+ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+ ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+ ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+ ![NetBeans](https://img.shields.io/badge/NetBeans-000000.svg?style=for-the-badge&logo=apache-netbeans&logoColor=white)
+ ![Trello](https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white)
+ ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white)
+ ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+ ![Dia](https://img.shields.io/badge/Dia-000000.svg?style=for-the-badge&logo=dia&logoColor=white)
+ ![Oracle Virtual Box](https://img.shields.io/badge/Oracle%20Virtual%20Box-1E1E1E.svg?style=for-the-badge&logo=oracle&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 
 ---
 
