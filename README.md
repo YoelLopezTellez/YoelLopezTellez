@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YoelLopezTellez&show_icons=true&theme=radical" alt="Yoel's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoelLopezTellez&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
